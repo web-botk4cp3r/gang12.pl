@@ -1,0 +1,15 @@
+body {
+    color: #a970ff91;
+    font-family: 'Prompt', sans-serif;
+    background-color: black;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#twitch-embed, #chat_embed {
+    border: 5px solid rgba(128, 0, 128, 0.1);
+}
